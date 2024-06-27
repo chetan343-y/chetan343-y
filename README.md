@@ -1,3 +1,5 @@
+![image](https://github.com/chetan343-y/chetan343-y/blob/main/banner.jpg)
+
 ### Hi there 👋,  I'm Chetan Sharma
 <br>
 
