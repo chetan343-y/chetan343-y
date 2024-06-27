@@ -22,5 +22,5 @@ Skills: C/C++/Mysql/Mongo_DB/Python/Bootstrap/CSS/Html/AI Ethics/Postman
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetan343-y&show_icons=true&locale=en" alt="sadhanasharma1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan343-y1&" alt="sadhanasharma1" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan-y&" alt="sadhanasharma1" /></p>
 
