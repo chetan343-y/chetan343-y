@@ -23,9 +23,6 @@ I am an experienced IT professional pursuing a BTech degree in IT with a strong 
 ### Platforms:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chetan343-y)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/chetan-sharma-gcek//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/chiji786)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/csh57875/)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetan343-y&show_icons=true&locale=en&layout=compact" alt="sadhanasharma1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetan343-y&show_icons=true&locale=en" alt="ChetanSharma1" /></p>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=chetan343-y)  
 
